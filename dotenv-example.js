@@ -6,4 +6,3 @@ if (process.env.NODE_ENV !== 'production') {
 
 console.log('Now the value for FOO is:', process.env.FOO);
 
-console.log(process.env.Name)
